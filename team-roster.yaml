@@ -1,12 +1,11 @@
-
 - name: Tom
-  email: 
+  email: N/A
   phone: +1-415-555-0101
-  department: 
+  department: N/A
 - name: Alice
-  email: 
+  email: N/A
   phone: +1-415-555-0102
-  department: 
+  department: N/A
 - name: Bob
   email: bob@example.com
   phone: +1-415-555-0103
@@ -19,31 +18,31 @@
   email: dave@example.com
   phone: +1-415-555-0105
   department: Sales - ACM
-- name: Dev
-  email: dev@virtueai.com
+- name: dev
+  email: N/A
   phone: +1-415-555-0106
-  department: 
+  department: N/A
 - name: Alex Morgan
   email: alex.morgan@vertex.com
   phone: +1-415-555-0201
-  department: 
+  department: N/A
 - name: Priya Shah
   email: priya.shah@vertex.com
   phone: +1-415-555-0202
-  department: 
+  department: N/A
 - name: Daniel Wu
   email: daniel.wu@vertex.com
   phone: +1-415-555-0203
-  department: 
+  department: N/A
 - name: Maria Lopez
   email: maria.lopez@vertex.com
   phone: +1-415-555-0204
-  department: 
+  department: N/A
 - name: James Patel
   email: james.patel@vertex.com
   phone: +1-415-555-0205
-  department: 
+  department: N/A
 - name: Chen Li
   email: chen.li@vertex.com
   phone: +1-415-555-0206
-  department: 
+  department: N/A
