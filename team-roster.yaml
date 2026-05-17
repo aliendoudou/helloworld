@@ -1,2 +1,49 @@
-employees:
-  - name: Test
+
+- name: Tom
+  email: 
+  phone: +1-415-555-0101
+  department: 
+- name: Alice
+  email: 
+  phone: +1-415-555-0102
+  department: 
+- name: Bob
+  email: bob@example.com
+  phone: +1-415-555-0103
+  department: Engineering - ACM
+- name: Carol
+  email: carol@example.com
+  phone: +1-415-555-0104
+  department: Finance - ACM
+- name: Dave
+  email: dave@example.com
+  phone: +1-415-555-0105
+  department: Sales - ACM
+- name: Dev
+  email: dev@virtueai.com
+  phone: +1-415-555-0106
+  department: 
+- name: Alex Morgan
+  email: alex.morgan@vertex.com
+  phone: +1-415-555-0201
+  department: 
+- name: Priya Shah
+  email: priya.shah@vertex.com
+  phone: +1-415-555-0202
+  department: 
+- name: Daniel Wu
+  email: daniel.wu@vertex.com
+  phone: +1-415-555-0203
+  department: 
+- name: Maria Lopez
+  email: maria.lopez@vertex.com
+  phone: +1-415-555-0204
+  department: 
+- name: James Patel
+  email: james.patel@vertex.com
+  phone: +1-415-555-0205
+  department: 
+- name: Chen Li
+  email: chen.li@vertex.com
+  phone: +1-415-555-0206
+  department: 
