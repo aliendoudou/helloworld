@@ -1,0 +1,1 @@
+log_level: DEBUG # for auth-service component during rollout window
